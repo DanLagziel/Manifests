@@ -4,5 +4,5 @@
 
 2) Upload downloaded zip using **Evolven UI**
     * Go into ```Manifests tab```
-    * Click on upload a file btn
+    * Click on the upload a file button
     * Select the file you want to upload
