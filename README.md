@@ -1,8 +1,6 @@
 # Manifests Repository
 
-Download
------
-1)  repository **zip** file.
+1) Download repository **zip** file
 
 2) Upload reposity **zip** file using **Evolven UI**
     * Go into ```Manifests tab```
